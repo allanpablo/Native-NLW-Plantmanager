@@ -2,12 +2,10 @@
     <img src="/img/icon.png" width="120" />    
     <h1>PlantManager</h1>  
     <p>🌱 Application to help people take care of their plants.</p>    
-    <hr />    
+    <hr/>    
     <p>
-
         <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" /></a>
         <img src="https://img.shields.io/badge/platform-mobile-blueviolet" alt="Project Platform" />                
-
     </p>     
   </div>
 
