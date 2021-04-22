@@ -1,4 +1,3 @@
-import { useNavigation } from '@react-navigation/core';
 import React from 'react';
 import {
   SafeAreaView,
@@ -6,7 +5,7 @@ import {
   Text,
   View
 } from 'react-native';
-
+import { useNavigation } from '@react-navigation/core';
 import {Button} from '../components/Button';
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';

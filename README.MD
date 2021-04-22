@@ -43,11 +43,13 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 # Authors
 
 - [Allan ApK Pablo](https://github.com/allanpablo)
+# Challenges
+ 1️⃣ ﹟missaoespacial
+ 2️⃣ ﹟embuscadoproximonivel
+ 3️⃣ ﹟Astronautas
+ 4️⃣ ﹟
+ 5️⃣ ﹟
 
-<br>
-<br>
-<br>
-<br>
 
 ## 📝 License
 
